@@ -64,3 +64,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you want
 </picture>
 
 
+Support the development:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/sanjai)
+
