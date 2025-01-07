@@ -1,4 +1,4 @@
-# Hi, I'm Shaaru 👋
+# Hi  I'm Shaaru 👋
 
 Welcome to my GitHub page! I'm passionate about technology and would love for you to join me in exploring the tech world.
 
@@ -21,13 +21,14 @@ Here are some of the frameworks I use for building projects:
 ![React](https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/64/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png)
 ![Svelte](https://img.icons8.com/doodle/48/svetle.png)
 ![PyTorch](https://img.icons8.com/fluency/48/pytorch.png)
-
+,
 ## Database Languages
 
 ![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)
 ![MySQL](https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png)
-![SQLite](https://img.icons8.com/ios-filled/48/sqlite.png)
+[![SQLite](https://skillicons.dev/icons?i=sqlite,figma&theme=dark)](https://skillicons.dev)
 ![MongoDB](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png)
+
 
 ## Current Development Environment
 
@@ -62,6 +63,13 @@ Feel free to explore my repositories and don't hesitate to reach out if you want
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+<br><br>
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,bash,bun,c,cpp,debian,deno,docker,eclipse,elysia,flask,git,github,githubactions,gitlab,gtk,jest,kali,kotlin,kubernetes,linkedin,linux,md,mastodon,mongodb,mysql,nextjs,nestjs,nodejs,obsidian,postgres,py,pytorch,react,sqlite,sass,svelte,tailwind,ts,ubuntu,vim,vite,docker,tauri,vscodium,vscode,figma&theme=dark)](https://skillicons.dev)
+
+
 
 
 Support the development:
