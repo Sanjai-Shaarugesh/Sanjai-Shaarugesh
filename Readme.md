@@ -36,6 +36,7 @@ These are the code editors and IDEs I'm currently using:
 
 ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![PyCharm](https://img.icons8.com/color/48/pycharm--v2.png)
+[![Vscodium](https://skillicons.dev/icons?i=vscodium)](https://skillicons.dev)
 
 ---
 
