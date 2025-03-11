@@ -68,12 +68,12 @@ Feel free to explore my repositories and don't hesitate to reach out if you want
 
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,bash,bun,c,cpp,debian,deno,docker,eclipse,elysia,flask,git,github,githubactions,gitlab,gtk,jest,kali,kotlin,kubernetes,linkedin,linux,md,mastodon,mongodb,mysql,nextjs,nestjs,nodejs,obsidian,postgres,py,pytorch,react,sqlite,sass,svelte,tailwind,ts,ubuntu,vim,vite,docker,tauri,vscodium,vscode,figma&theme=dark)](https://skillicons.dev)
+[!["My Skills "target=\"_blank\""](https://skillicons.dev/icons?i=java,kotlin,nodejs,bash,bun,c,cpp,debian,deno,docker,eclipse,elysia,flask,git,github,githubactions,gitlab,gtk,jest,kali,kotlin,kubernetes,linkedin,linux,md,mastodon,mongodb,mysql,nextjs,nestjs,nodejs,obsidian,postgres,py,pytorch,react,sqlite,sass,svelte,tailwind,ts,ubuntu,vim,vite,docker,tauri,vscodium,vscode,figma&theme=dark)](https://skillicons.dev)
 
 
 
 
 Support the development:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/sanjai)
+[!["Buy Me A Coffee "target=\"_blank\""](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/sanjai) 
 
