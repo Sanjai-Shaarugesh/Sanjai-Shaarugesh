@@ -1,27 +1,27 @@
-# Hi  I'm Shaaru 👋
+# Hi  It's  Shaaru 👋
 
-Welcome to my GitHub page! I'm passionate about technology and would love for you to join me in exploring the tech world.
+Welcome to my GitHub page! I'm open sorce |  ML & Full stack developer | Passionate about technology | LINUX enthusiast.
 
 ## Programming Languages
 
 ![Python](https://img.icons8.com/color/48/python--v1.png)
 ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
-![Java](https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png)
+[![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
 ![CSS3](https://img.icons8.com/fluency/48/css3.png)
 ![Tailwind CSS](https://img.icons8.com/fluency/48/tailwind_css.png)
 ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
-![Rust](https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-rust-is-a-multi-paradigm-system-programming-language-logo-green-tal-revivo.png)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 
 ## Frameworks
 
 Here are some of the frameworks I use for building projects:
 
-![Django](https://img.icons8.com/color/48/django.png)
-![React](https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/64/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png)
+[![django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 ![Svelte](https://img.icons8.com/doodle/48/svetle.png)
 ![PyTorch](https://img.icons8.com/fluency/48/pytorch.png)
-,
+
 ## Database Languages
 
 ![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)
@@ -37,14 +37,15 @@ These are the code editors and IDEs I'm currently using:
 ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![PyCharm](https://img.icons8.com/color/48/pycharm--v2.png)
 [![Vscodium](https://skillicons.dev/icons?i=vscodium)](https://skillicons.dev)
+[![vim](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
+[![neovim](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
 
 ---
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about tech!
 
-
-[LinkedIn](https://www.linkedin.com/in/shaarugesh-sudhakar-462876290) | [Twitter](https://x.com/shaarugesh28091) | [Personal Website](https://sanjai-shaarugesh.netlify.app/)
-
+ ## **Follow me on and know about me more on**
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shaarugesh-sudhakar-462876290)  $~~$ [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/shaarugesh28091) 
 
 
 
