@@ -1,4 +1,4 @@
-# Hi  It's  Shaaru 👋
+#   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%">  Hi It's  me Shaaru 
 
 Welcome to my GitHub page! I'm open sorce |  ML & Full stack developer | Passionate about technology | LINUX enthusiast.
 
