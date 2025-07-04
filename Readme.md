@@ -45,7 +45,8 @@ These are the code editors and IDEs I'm currently using:
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about tech!
 
  ## **Follow me on and know about me more on**
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shaarugesh-sudhakar-462876290)  $~~$ [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/shaarugesh28091) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shaarugesh-sudhakar-462876290)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/shaarugesh28091)
+
 
 
 
@@ -69,15 +70,13 @@ Feel free to explore my repositories and don't hesitate to reach out if you want
 
 <br><br>
 
-<a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,bash,bun,c,cpp,debian,deno,docker,eclipse,elysia,flask,git,github,githubactions,gitlab,gtk,jest,kali,kotlin,kubernetes,linkedin,linux,md,mastodon,mongodb,mysql,nextjs,nestjs,nodejs,obsidian,postgres,py,pytorch,react,sqlite,sass,svelte,tailwind,ts,ubuntu,vim,vite,docker,tauri,vscodium,vscode,electron,figma&theme=dark" alt="My Skills">
-</a>
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,bash,bun,c,cpp,debian,deno,docker,eclipse,elysia,flask,git,github,githubactions,gitlab,gtk,jest,kali,kubernetes,linkedin,linux,markdown,mastodon,mongodb,mysql,nextjs,nestjs,obsidian,postgres,python,pytorch,react,sqlite,sass,svelte,tailwindcss,typescript,ubuntu,vim,vite,tauri,vscodium,vscode,electron,figma&theme=dark)](https://skillicons.dev)
 
 
 
 
-
-Support the development:
+Support the development
 
 <a href="https://buymeacoffee.com/sanjai" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
