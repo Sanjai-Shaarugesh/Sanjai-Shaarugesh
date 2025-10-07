@@ -4,6 +4,7 @@ Welcome to my GitHub page! I'm open source |  ML & Full stack developer | Passio
 
 ## Programming Languages
 
+[![Rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 ![Python](https://img.icons8.com/color/48/python--v1.png)
 ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
 [![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
@@ -11,7 +12,7 @@ Welcome to my GitHub page! I'm open source |  ML & Full stack developer | Passio
 ![CSS3](https://img.icons8.com/fluency/48/css3.png)
 ![Tailwind CSS](https://img.icons8.com/fluency/48/tailwind_css.png)
 ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
-[![Rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+
 
 ## Frameworks
 
