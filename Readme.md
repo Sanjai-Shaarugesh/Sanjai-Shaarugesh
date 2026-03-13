@@ -35,14 +35,14 @@
                `+oooooo:                  Kernel: 6.12.1-arch1-1
                -+oooooo+:                 Uptime: 69 days, 4 hrs (no reboot flex)
              `/:-:++oooo+:                Packages: 1847 (pacman)
-            `/++++/+++++++:               Shell: zsh 5.9 + starship prompt
-           `/++++++++++++++:              DE: GNOME 47 (Wayland)
+            `/++++/+++++++:               Shell: zsh 
+           `/++++++++++++++:              DE: GNOME 49 (Wayland)
           `/+++ooooooooooooo/`            WM: Mutter
-         ./ooosssso++osssssso+`           Terminal: foot / kitty
+         ./ooosssso++osssssso+`           Terminal: ghostty
         .oossssso-````/ossssss+`          Editor: Neovim 0.11 + lazy.nvim
        -osssssso.      :ssssssso.         Theme: Adwaita Dark (respect the default)
-      :osssssss/        osssso+++.        Icons: Papirus-Dark
-     /ossssssss/        +ssssooo/-        Font: JetBrains Mono Nerd Font
+      :osssssss/        osssso+++.        Icons: Adwaita-green
+     /ossssssss/        +ssssooo/-        Font: ComicShannsMono Nerd Font
    `/ossssso+/:-        -:/+osssso+-      CPU: AMD Ryzen 9 (pinned governors)
   `+sso+:-`                 `.-/+oso:     RAM: 32GiB (yes I need all of it)
  `++:.                           `-/+/    Swap: zram (btw)
