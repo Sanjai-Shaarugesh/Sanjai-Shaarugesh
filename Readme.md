@@ -121,9 +121,7 @@ echo "response time: 24h (unless there's a segfault)"
 
 If the AUR packages and 3am debugging sessions have been useful:
 
-<a href="https://buymeacoffee.com/sanjai">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="36" alt="Buy Me A Coffee">
-</a>
+<a href="https://buymeacoffee.com/sanjai"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="36" alt="Buy Me A Coffee"></a>&nbsp;&nbsp;&nbsp;[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-%23EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Sanjai-Shaarugesh)
 
 ---
 
